@@ -1,0 +1,12 @@
+option(
+  'variants',
+  type: 'array',
+  choices: ['light', 'darker', 'dark', 'lighter'],
+  description: 'List of theme variants to build',
+)
+
+option(
+  'gtk3_version',
+  type: 'string',
+  description: 'Build GTK 3 theme for specific version',
+)

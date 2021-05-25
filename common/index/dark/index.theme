@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Nord-Dark
+Comment=An Arc GTK theme variant using the Nord color pallette
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Nord-Dark
+MetacityTheme=Nord-Dark
+IconTheme=Adwaita
+CursorTheme=DMZ-Black
+ButtonLayout=menu:minimize,maximize,close
